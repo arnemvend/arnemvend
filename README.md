@@ -28,4 +28,6 @@ Federal State Budget-Financed Educational Institution of Higher Education "The B
 </div>
 
 ---
-[![Telegram Badge](https://img.shields.io/badge/-KinstantinPozdeev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arnemvend) [![Telegram Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat)](mailto:konstantin.pozdeev.85@inbox.ru)
+
+### :phone: Connect with me
+[![Telegram Badge](https://img.shields.io/badge/-KonstantinPozdeev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arnemvend) [![Telegram Badge](https://img.shields.io/badge/-Mail.ru-blue?style=flat)](mailto:konstantin.pozdeev.85@inbox.ru)
