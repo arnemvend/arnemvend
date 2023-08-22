@@ -1,16 +1,22 @@
-### Hi there 👋
+### Hi there! I'm Konstantin. Welcome! 
 
-<!--
-**arnemvend/arnemvend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :sparkles: My interests:
+mathematics and physics, gamedev, VFX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :school: Education:
+Federal State Budget-Financed Educational Institution of Higher Education "The Bonch-Bruevich St Petersburg State University of Telecommunications", Bachelor’s degree in Infocommunication Networks and Systems
+
+---
+
+### :zap: Skills
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+</div>
+
+### :computer: Software
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
